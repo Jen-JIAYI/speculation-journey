@@ -14,6 +14,14 @@
 - **交易框架**：十大原则、止损六法、仓位管理
 
 ---
+## 📥 安装方式
+
+### 方式一：Git 克隆（推荐）
+
+```bash
+cd ~/.claude/skills/
+git clone https://github.com/Jen-JIAYI/speculation-journey.git
+
 
 ## 🎯 核心功能
 
